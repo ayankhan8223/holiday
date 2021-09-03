@@ -1,0 +1,133 @@
+.TableBody {
+  height: 100vh;
+  padding: 10px 40px;
+}
+.row1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list3 h6 {
+  font-size: 17px;
+  text-align: left;
+
+  font: bold;
+  letter-spacing: 0px;
+  color: #232326;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+}
+.list4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.list4 p {
+  margin-right: 30px;
+  font-family: "DM Sans", sans-serif;
+}
+.list4 p:nth-child(1) {
+  text-align: left;
+  font: normal normal normal 16px/45px;
+  letter-spacing: 0px;
+  color: #fea101;
+  opacity: 1;
+}
+
+.list4 p:nth-child(2) {
+  text-align: left;
+  font: normal normal medium 16px/24px;
+  letter-spacing: 0px;
+  color: #90919b;
+  opacity: 1;
+}
+.list4 p:nth-child(3) {
+  text-align: left;
+  font: normal normal medium 16px/24px;
+  letter-spacing: 0px;
+  color: #232326;
+  opacity: 1;
+}
+.row2 {
+  display: flex;
+  padding: 20px 0;
+  border-bottom: 1px solid #dfdfdf;
+  margin-top: 10px;
+}
+.coloumn2 {
+  margin-right: 450px;
+  margin-left: 200px;
+}
+.coloumn3 h3 {
+  text-align: left;
+  font-size: 17px;
+  letter-spacing: 0px;
+  color: #bbbbbf;
+  opacity: 1;
+  font-weight: normal;
+}
+.coloumn2 h3 {
+  text-align: left;
+  font-size: 17px;
+  letter-spacing: 0px;
+  color: #bbbbbf;
+  opacity: 1;
+  font-weight: normal;
+}
+.coloumn1 h3 {
+  text-align: left;
+  font-size: 17px;
+  letter-spacing: 0px;
+  color: #bbbbbf;
+  opacity: 1;
+  font-weight: normal;
+}
+.row3 {
+  display: flex;
+  padding: 15px 0;
+  border-bottom: 1px solid #dfdfdf;
+  align-items: center;
+}
+.col2 {
+  margin-right: 380px;
+  margin-left: 165px;
+}
+.col1 h3 {
+  text-align: left;
+  font-weight: normal;
+  letter-spacing: 0px;
+  color: #151b30;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+  font-size: 17.4px;
+}
+.col2 h3 {
+  text-align: left;
+  font-weight: normal;
+  letter-spacing: 0px;
+  color: #585a64;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+  font-size: 17.4px;
+}
+
+.col3 h3 {
+  text-align: left;
+  font-weight: normal;
+  letter-spacing: 0px;
+  color: #151b30;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+  font-size: 17.4px;
+}
+.list4 button {
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  font: normal normal normal 16px/45px DM Sans;
+  letter-spacing: 0px;
+  color: #fea101;
+  opacity: 1;
+  margin-right: 20px;
+  background-color: Transparent;
+}

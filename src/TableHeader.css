@@ -1,0 +1,50 @@
+.TableHeader {
+  display: flex;
+
+  justify-content: space-between;
+  padding: 40px 40px;
+  height: 70px;
+}
+
+.tit1 h3 {
+  text-align: left;
+  font: normal normal bold 36px/44px;
+  letter-spacing: 0px;
+  color: #232326;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+}
+.tit1 p {
+  font: normal normal medium 16px/44px;
+  letter-spacing: 0px;
+  color: #90919b;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+  margin-top: 20px;
+}
+.tit4 {
+  display: flex;
+  align-items: center;
+}
+.tit4 img {
+  width: 16px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+.year {
+  margin-right: 30px;
+  text-align: left;
+  font: normal normal medium 16px/24px;
+  letter-spacing: 0px;
+  color: #90919b;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+}
+.year__text {
+  text-align: left;
+  font: normal normal medium 16px/24px;
+  letter-spacing: 0px;
+  color: #232326;
+  opacity: 1;
+  font-family: "DM Sans", sans-serif;
+}
